@@ -9,3 +9,4 @@ It uses the [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Nav
 
 ### Used in [MensaHub](https://mensahub.cyber-biene.de/mealPlan?date=2024-09-02&mensa=6)
 
+<img width="320" alt="1726249574997Bildschirmfoto2024-09-13um19 33 48" src="https://github.com/user-attachments/assets/27727f1b-7463-4677-b9df-8d0b576059c5">
