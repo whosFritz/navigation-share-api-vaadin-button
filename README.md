@@ -1,4 +1,4 @@
-# Navigation Share API Vaadin Button
+# Share Button for Vaadin
 This is a simple Vaadin Button component that allows you to share the current page.
 It uses the [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share) to share the current page, opening the native share dialog of the device.
 
